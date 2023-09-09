@@ -1,0 +1,8 @@
+beautifulsoup4
+openai
+pdfminer
+pdfminer.six
+requests
+st_pages
+streamlit
+gspread
